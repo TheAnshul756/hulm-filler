@@ -17,4 +17,8 @@ We have always hated the struggle we had to face while filling the HULM and OE p
 
 ### How to Use ?
 
-- 
+- Open the HULM/OE Google Form
+- Click on the extension and press start
+- Simply drag and drop the subjects on the modal that appears to reorder them
+- Click submit to fill the form.
+- The extension will populate the fields. Click submit on the form when you are ready.  
