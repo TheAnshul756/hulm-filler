@@ -7,9 +7,13 @@ We have always hated the struggle we had to face while filling the HULM and OE p
 - Download the official zip from [here](https://github.com/TheAnshul756/MCGFTGF/archive/refs/heads/main.zip).
 - Unzip the package.
 - Open Chrome Extensions Page by clicking the menu icon (three dots) at the top right of Chrome, point to “More Tools,” then click on “Extensions.” or simply type `chrome://extensions/` in the chrome address bar.
+  ![](img/extensionsmenu.png)
 - Enable developer mode from the top right corner.
-- Click on load unpacked and select the unzipped package. Extension is now ready to use.
-
+  ![](img/enabledev.png)
+- Click on load unpacked and select the unzipped package.
+  ![](img/loadunpack.png)
+  Once you see the extension added, now it is ready to use.
+  ![](img/extensionadded.png)
 
 ### How to Use ?
 
