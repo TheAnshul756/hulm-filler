@@ -49,3 +49,5 @@ We have always hated the struggle we had to face while filling the HULM and OE p
 v1.0.0:
 
 - Initial release
+
+To report any issues, suggestions or improvement, please do so at [issues](https://github.com/TheAnshul756/MCGFTGF/issues).
