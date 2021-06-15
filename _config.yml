@@ -4,3 +4,4 @@ show_downloads: "true"
 github:
   repository_url: https://github.com/TheAnshul756/MCGFTGF
   zip_url: https://github.com/TheAnshul756/hulm-filler/archive/refs/heads/gh-pages.zip
+  tar_url: https://github.com/TheAnshul756/MCGFTGF/archive/refs/tags/1.0.tar.gz
