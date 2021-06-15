@@ -1,3 +1,5 @@
 title: Effortless Subject Reordering
 theme: jekyll-theme-cayman
-site.github.repository_url:a https://github.com/TheAnshul756/MCGFTGF/archive/refs/heads/main.zip
+github:
+  repository_url: https://github.com/TheAnshul756/MCGFTGF
+  zip_url: https://github.com/TheAnshul756/hulm-filler/archive/refs/heads/gh-pages.zip
