@@ -32,7 +32,7 @@ We have always hated the struggle we had to face while filling the HULM and OE p
 
 - Simply drag and drop the subjects on the modal that appears to reorder them.
   
-  ![](img/dragDerop.png)
+  ![](img/dragDrop.png)
 
 - Click submit to fill the form.
 - The extension will populate the fields. Click submit on the form when you are ready.  
