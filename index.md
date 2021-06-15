@@ -39,8 +39,6 @@ We have always hated the struggle we had to face while filling the HULM and OE p
 
   ![](img/finalfilled.png)
   
-### About Us
-
 
 ### Stats
 
