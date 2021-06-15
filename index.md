@@ -9,9 +9,9 @@ We have always hated the struggle we had to face while filling the HULM and OE p
 - Open Chrome Extensions Page by clicking the menu icon (three dots) at the top right of Chrome, point to “More Tools,” then click on “Extensions.” or simply type `chrome://extensions/` in the chrome address bar.
   ![](img/extensionsmenu.png)
 - Enable developer mode from the top right corner.
-  ![](img/enabledev.png)
+  ![](img/enabledev.jpeg)
 - Click on load unpacked and select the unzipped package.
-  ![](img/loadunpack.png)
+  ![](img/loadunpack.jpeg)
   Once you see the extension added, now it is ready to use.
   ![](img/extensionadded.png)
 
