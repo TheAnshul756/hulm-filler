@@ -46,4 +46,4 @@ We have always hated the struggle we had to face while filling the HULM and OE p
 ### Changelog
 v1.0.0:
 
--Initial release
+- Initial release
