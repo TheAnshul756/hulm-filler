@@ -6,7 +6,7 @@ We have always hated the struggle we had to face while filling the HULM and OE p
 
 - Download the official zip from [here](https://github.com/TheAnshul756/MCGFTGF/archive/refs/heads/main.zip).
 - Unzip the package.
-- Open [Chrome Extensions Page](chrome://extensions/) and enable developer mode from the top right corner.
+- Open [Chrome Extensions Page](chrome://extensions/){:target="_blank"} and enable developer mode from the top right corner.
 - Click on load unpacked and select the unzipped package. Extension is now ready to use.
 
 
