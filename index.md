@@ -2,7 +2,7 @@
 
 We have always hated the struggle we had to face while filling the HULM and OE preference form. To end this once and for all, we came with this extension. It enables effortless reordering of the subjects with a simple drag and drop of the mouse.  
 
-### Installation
+## Installation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kdLuHF8pf7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -26,7 +26,7 @@ We have always hated the struggle we had to face while filling the HULM and OE p
   ![](img/extensionadded.png)
   
 
-### How to use
+## How to use
 
 - Open the HULM/OE Google Form.
 - Click on the extension and press start.
@@ -43,12 +43,12 @@ We have always hated the struggle we had to face while filling the HULM and OE p
   ![](img/finalfilled.png)
   
 
-### Stats
+## Stats
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftheanshul756.github.io%2Fhulm-filler%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
   
-### Changelog
+## Changelog
 v1.0.0:
 
 - Initial release
